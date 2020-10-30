@@ -12,9 +12,11 @@ https://www.hackerone.com/
 
 https://www.bugcrowd.com/
 
+Code Analysis :
+
 Code Execution :
 
-Owasp stuff
+Owasp stuff :
 
 https://github.com/OWASP/owasp-mstg/
 
@@ -40,6 +42,17 @@ https://www.ash-king.co.uk/blog/backdoor-android-facebook
 
 https://www.tutorialspoint.com/java
 
+Reverse Engineer :
+
+Drozer (Interact with app)
+
+https://github.com/FSecureLABS/drozer
+
+Frida (Interact with app)
+
+https://frida.re/
+
 SQL Injection :
 
 https://hackerone.com/reports/291764
+
