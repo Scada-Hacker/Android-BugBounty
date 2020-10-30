@@ -22,6 +22,10 @@ https://www.ash-king.co.uk/blog/facebook-bug-bounty-09-18
 File Upload :
 
 https://latesthackingnews.com/2020/10/08/code-execution-vulnerability-found-in-facebook-for-android/
+ 
+IDOR :
+
+https://hackersonlineclub.com/insecure-direct-object-references-idor-vulnerability-explain/
 
 Other Links :
 
