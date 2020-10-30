@@ -22,3 +22,5 @@ https://www.ash-king.co.uk/blog/facebook-bug-bounty-09-18
 Other Links :
 
 https://github.com/ashishb/android-security-awesome
+
+https://www.ash-king.co.uk/blog/backdoor-android-facebook
