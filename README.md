@@ -2,7 +2,7 @@
 <p>Created so I can collate all the usefull information and links I've found.</p> 
 <p>This is a work in progress and will be constantly updated</p>
 
-BugBounty Programs
+## BugBounty Programs
 
 https://yeswehack.com
 
@@ -12,32 +12,32 @@ https://www.hackerone.com/
 
 https://www.bugcrowd.com/
 
-Code Analysis :
+## Code Analysis :
 
-Code Execution / RCE :
+## Code Execution / RCE :
 
 https://blog.dixitaditya.com/from-android-app-to-rce/
 
 
-Owasp stuff :
+## Owasp stuff :
 
 https://github.com/OWASP/owasp-mstg/
 
-Deeplinks : 
+## Deeplinks : 
 
 https://medium.com/better-programming/android-guide-for-app-deeplinks-aa5fb0e1514e
 
 https://www.ash-king.co.uk/blog/facebook-bug-bounty-09-18
 
-File Upload :
+## File Upload :
 
 https://latesthackingnews.com/2020/10/08/code-execution-vulnerability-found-in-facebook-for-android/
  
-IDOR :
+## IDOR :
 
 https://hackersonlineclub.com/insecure-direct-object-references-idor-vulnerability-explain/
 
-Other Links :
+## Other Links :
 
 https://github.com/ashishb/android-security-awesome
 
@@ -45,7 +45,7 @@ https://www.ash-king.co.uk/blog/backdoor-android-facebook
 
 https://www.tutorialspoint.com/java
 
-Reverse Engineer :
+## Reverse Engineer :
 
 Bytecode Viewer
 
@@ -71,7 +71,7 @@ https://github.com/java-decompiler/jd-gui
 
 
 
-SQL Injection :
+## SQL Injection :
 
 https://hackerone.com/reports/291764
 
