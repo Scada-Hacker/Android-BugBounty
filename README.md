@@ -12,6 +12,8 @@ https://www.hackerone.com/
 
 https://www.bugcrowd.com/
 
+Code Execution :
+
 Owasp stuff
 
 https://github.com/OWASP/owasp-mstg/
