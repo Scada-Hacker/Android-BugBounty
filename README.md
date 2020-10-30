@@ -14,7 +14,10 @@ https://www.bugcrowd.com/
 
 Code Analysis :
 
-Code Execution :
+Code Execution / RCE :
+
+https://blog.dixitaditya.com/from-android-app-to-rce/
+
 
 Owasp stuff :
 
