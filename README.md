@@ -12,8 +12,6 @@ https://www.hackerone.com/
 
 https://www.bugcrowd.com/
 
-### Code Analysis :
-
 ### Code Execution / RCE :
 
 https://blog.dixitaditya.com/from-android-app-to-rce/
