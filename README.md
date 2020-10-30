@@ -1,7 +1,6 @@
 # Android-BugBounty
-Created so I can collate all the usefull information and links I've found. 
-
-This is a work in progress and will be constnatly updated
+<p>Created so I can collate all the usefull information and links I've found. 
+This is a work in progress and will be constnatly updated</p>
 
 BugBounty Programs
 
