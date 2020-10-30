@@ -1,12 +1,16 @@
 # Android-BugBounty
 Created so I can collate all the usefull information and links I've found. 
+
 This is a work in progress and will be constnatly updated
 
 BugBounty Programs
 
 https://yeswehack.com
+
 https://www.intigriti.com/
+
 https://www.hackerone.com/
+
 https://www.bugcrowd.com/
 
 Owasp stuff
