@@ -52,6 +52,8 @@ Frida (Interact with app)
 
 https://frida.re/
 
+https://codeshare.frida.re/
+
 Dex to Jar
 
 https://github.com/pxb1988/dex2jar
