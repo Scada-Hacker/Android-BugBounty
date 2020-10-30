@@ -52,6 +52,16 @@ Frida (Interact with app)
 
 https://frida.re/
 
+Dex to Jar
+
+https://github.com/pxb1988/dex2jar
+
+JD-GUI 
+
+https://github.com/java-decompiler/jd-gui
+
+
+
 SQL Injection :
 
 https://hackerone.com/reports/291764
