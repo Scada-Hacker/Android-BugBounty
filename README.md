@@ -19,6 +19,10 @@ https://medium.com/better-programming/android-guide-for-app-deeplinks-aa5fb0e151
 
 https://www.ash-king.co.uk/blog/facebook-bug-bounty-09-18
 
+File Upload :
+
+https://latesthackingnews.com/2020/10/08/code-execution-vulnerability-found-in-facebook-for-android/
+
 Other Links :
 
 https://github.com/ashishb/android-security-awesome
