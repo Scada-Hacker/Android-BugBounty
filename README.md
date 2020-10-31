@@ -79,3 +79,7 @@ https://github.com/java-decompiler/jd-gui
 
 https://hackerone.com/reports/291764
 
+### Webviews
+
+https://www.nuckingfoob.me/android-webview-csp-iframe-sandbox-bypass/index.html
+
