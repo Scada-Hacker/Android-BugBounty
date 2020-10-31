@@ -12,7 +12,7 @@ https://www.hackerone.com/
 
 https://www.bugcrowd.com/
 
-### API STUFF
+### API Stuff
 
 http://ghostlulz.com/api-hacking-graphql/
 
