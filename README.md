@@ -113,8 +113,10 @@ https://github.com/java-decompiler/jd-gui
 
 https://hackerone.com/reports/291764
 
-### Webviews
+### Webviews :
 
 https://www.nuckingfoob.me/android-webview-csp-iframe-sandbox-bypass/index.html
 
-### XSS
+### XSS :
+
+https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/
