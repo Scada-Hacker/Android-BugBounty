@@ -43,6 +43,8 @@ https://www.ash-king.co.uk/blog/backdoor-android-facebook
 
 https://www.tutorialspoint.com/java
 
+https://book.hacktricks.xyz/mobile-apps-pentesting/android-checklist
+
 ### Reverse Engineer :
 
 Bytecode Viewer
