@@ -45,6 +45,8 @@ https://www.tutorialspoint.com/java
 
 https://book.hacktricks.xyz/mobile-apps-pentesting/android-checklist
 
+https://www.youtube.com/watch?v=mr64si_-YwI
+
 ### Reverse Engineer :
 
 Bytecode Viewer
