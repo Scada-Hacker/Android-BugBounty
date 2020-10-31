@@ -12,6 +12,21 @@ https://www.hackerone.com/
 
 https://www.bugcrowd.com/
 
+### API STUFF
+
+http://ghostlulz.com/api-hacking-graphql/
+https://medium.com/@the.bilal.rizwan/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696
+https://github.com/tartiflette/tartiflette-aiohttp
+https://www.freecodecamp.org/news/deep-dive-into-graphql-with-golang-d3e02a429ac3/
+https://medium.com/dailymotion/tartiflette-graphql-api-engine-python-open-source-a200c5bbc477
+https://atheros.ai/blog/graphql-introspection-and-introspection-queries
+https://apisecurity.io/issue-82-common-graphql-vulnerabilities-pentesting-insomnia/
+https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities/
+https://graphql.org/
+https://tartiflette.io/docs/tutorial/getting-started
+https://www.apollographql.com/blog/authorization-in-graphql-452b1c402a9/
+https://archive.org/details/github.com-smodnix-31-days-of-API-Security-Tips_-_2020-02-06_21-06-23
+
 ### Code Execution / RCE :
 
 https://blog.dixitaditya.com/from-android-app-to-rce/
