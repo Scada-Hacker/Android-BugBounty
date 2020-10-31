@@ -49,6 +49,10 @@ https://www.youtube.com/watch?v=mr64si_-YwI
 
 https://vickieli.dev/hacking/intro-android/
 
+https://blog.usejournal.com/an-intro-to-pentesting-an-android-phone-464ec4860f39
+
+https://www.google.com/about/appsecurity/play-rewards/
+
 ### Reverse Engineer :
 
 Bytecode Viewer
