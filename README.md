@@ -63,6 +63,8 @@ https://frida.re/
 
 https://codeshare.frida.re/
 
+https://erev0s.com/blog/frida-code-snippets-for-android/
+
 Dex to Jar
 
 https://github.com/pxb1988/dex2jar
