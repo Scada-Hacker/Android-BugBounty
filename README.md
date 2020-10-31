@@ -53,6 +53,8 @@ https://blog.usejournal.com/an-intro-to-pentesting-an-android-phone-464ec4860f39
 
 https://www.google.com/about/appsecurity/play-rewards/
 
+https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+
 ### Reverse Engineer :
 
 Bytecode Viewer
