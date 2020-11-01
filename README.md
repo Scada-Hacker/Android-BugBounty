@@ -38,6 +38,8 @@ https://www.apollographql.com/blog/authorization-in-graphql-452b1c402a9/
 
 https://archive.org/details/github.com-smodnix-31-days-of-API-Security-Tips_-_2020-02-06_21-06-23
 
+https://www.youtube.com/watch?v=zTkv_9ChVPY
+
 ### Code Execution / RCE :
 
 https://blog.dixitaditya.com/from-android-app-to-rce/
