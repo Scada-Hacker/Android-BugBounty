@@ -119,6 +119,10 @@ https://hackerone.com/reports/291764
 
 https://www.nuckingfoob.me/android-webview-csp-iframe-sandbox-bypass/index.html
 
+https://resources.infosecinstitute.com/topic/android-hacking-security-part-7-attacks-android-webviews/
+
+https://myhackingworld.com/hack-android-phones-with-a-link-javascript-exploit/
+
 ### XSS :
 
 https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/
