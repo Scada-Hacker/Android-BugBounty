@@ -123,6 +123,8 @@ https://resources.infosecinstitute.com/topic/android-hacking-security-part-7-att
 
 https://myhackingworld.com/hack-android-phones-with-a-link-javascript-exploit/
 
+https://www.hackingloops.com/android-webview-exploitation/
+
 ### XSS :
 
 https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/
