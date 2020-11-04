@@ -65,6 +65,8 @@ https://hackersonlineclub.com/insecure-direct-object-references-idor-vulnerabili
 
 ### Other Links :
 
+https://www.exploit-db.com/papers
+
 https://github.com/ashishb/android-security-awesome
 
 https://www.ash-king.co.uk/blog/backdoor-android-facebook
