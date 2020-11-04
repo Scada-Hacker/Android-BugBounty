@@ -111,7 +111,9 @@ JD-GUI
 
 https://github.com/java-decompiler/jd-gui
 
+### Reports
 
+https://github.com/B3nac/Android-Reports-and-Resources
 
 ### SQL Injection :
 
