@@ -103,6 +103,9 @@ https://codeshare.frida.re/
 
 https://erev0s.com/blog/frida-code-snippets-for-android/
 
+https://www.youtube.com/watch?v=sdpEJguRd6o
+
+
 Dex to Jar
 
 https://github.com/pxb1988/dex2jar
