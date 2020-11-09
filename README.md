@@ -105,6 +105,8 @@ https://erev0s.com/blog/frida-code-snippets-for-android/
 
 https://www.youtube.com/watch?v=sdpEJguRd6o
 
+https://medium.com/swlh/exploring-native-functions-with-frida-on-android-part-1-bf93f0bfa1d3
+
 
 Dex to Jar
 
