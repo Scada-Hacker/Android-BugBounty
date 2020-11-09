@@ -107,6 +107,8 @@ https://www.youtube.com/watch?v=sdpEJguRd6o
 
 https://medium.com/swlh/exploring-native-functions-with-frida-on-android-part-1-bf93f0bfa1d3
 
+https://guidedhacking.com/threads/android-hacking-tips-and-tricks-with-frida-burpsuite.14489/
+
 
 Dex to Jar
 
