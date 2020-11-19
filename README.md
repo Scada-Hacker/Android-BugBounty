@@ -109,6 +109,7 @@ https://medium.com/swlh/exploring-native-functions-with-frida-on-android-part-1-
 
 https://guidedhacking.com/threads/android-hacking-tips-and-tricks-with-frida-burpsuite.14489/
 
+https://awakened1712.github.io/hacking/hacking-frida/
 
 Dex to Jar
 
