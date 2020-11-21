@@ -111,6 +111,8 @@ https://guidedhacking.com/threads/android-hacking-tips-and-tricks-with-frida-bur
 
 https://awakened1712.github.io/hacking/hacking-frida/
 
+https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/
+
 Dex to Jar
 
 https://github.com/pxb1988/dex2jar
