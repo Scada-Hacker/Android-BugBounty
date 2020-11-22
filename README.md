@@ -101,6 +101,8 @@ https://frida.re/
 
 https://codeshare.frida.re/
 
+https://www.slideshare.net/TonyThomas45/frida-101-android
+
 https://erev0s.com/blog/frida-code-snippets-for-android/
 
 https://www.youtube.com/watch?v=sdpEJguRd6o
