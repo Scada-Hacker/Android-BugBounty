@@ -131,6 +131,10 @@ https://github.com/B3nac/Android-Reports-and-Resources
 
 https://hackerone.com/reports/291764
 
+### SSL Pinning
+
+https://appmattus.medium.com/android-security-ssl-pinning-1db8acb6621e
+
 ### Webviews :
 
 https://www.nuckingfoob.me/android-webview-csp-iframe-sandbox-bypass/index.html
