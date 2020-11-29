@@ -123,6 +123,10 @@ JD-GUI
 
 https://github.com/java-decompiler/jd-gui
 
+RADARE2
+
+https://www.megabeets.net/a-journey-into-radare-2-part-1/
+
 ### Reports
 
 https://github.com/B3nac/Android-Reports-and-Resources
