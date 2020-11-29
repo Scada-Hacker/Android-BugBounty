@@ -127,6 +127,8 @@ RADARE2
 
 https://www.megabeets.net/a-journey-into-radare-2-part-1/
 
+https://github.com/ifding/radare2-tutorial
+
 ### Reports
 
 https://github.com/B3nac/Android-Reports-and-Resources
