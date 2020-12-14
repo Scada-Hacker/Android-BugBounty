@@ -85,6 +85,12 @@ https://www.google.com/about/appsecurity/play-rewards/
 
 https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 
+https://medium.com/bugbountywriteup/dont-stop-at-one-bug-d3c56806b5
+
+https://resources.infosecinstitute.com/topic/android-hacking-security-part-1-exploiting-securing-application-components/
+
+https://resources.infosecinstitute.com/topic/android-hacking-security-part-3-exploiting-broadcast-receivers/
+
 ### Reverse Engineer :
 
 Bytecode Viewer
@@ -128,6 +134,15 @@ RADARE2
 https://www.megabeets.net/a-journey-into-radare-2-part-1/
 
 https://github.com/ifding/radare2-tutorial
+
+https://www.megabeets.net/a-journey-into-radare-2-part-1/
+
+https://monosource.gitbooks.io/radare2-explorations/content/intro/basics.html
+
+https://github.com/radareorg/r2ghidra
+
+https://book.rada.re/
+
 
 ### Reports
 
