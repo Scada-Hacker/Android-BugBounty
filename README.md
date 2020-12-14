@@ -131,13 +131,19 @@ https://github.com/java-decompiler/jd-gui
 
 RADARE2
 
-https://www.megabeets.net/a-journey-into-radare-2-part-1/
-
 https://github.com/ifding/radare2-tutorial
 
 https://www.megabeets.net/a-journey-into-radare-2-part-1/
 
 https://monosource.gitbooks.io/radare2-explorations/content/intro/basics.html
+
+https://www.mavensecurity.com/blog/getting-started-with-frida-on-android
+
+https://awakened1712.github.io/hacking/hacking-frida/
+
+https://www.hexacorn.com/blog/2020/05/31/fridatrace-quick-dirty-api-monitor/
+
+https://github.com/andreafioraldi/frida-fuzzer
 
 https://github.com/radareorg/r2ghidra
 
