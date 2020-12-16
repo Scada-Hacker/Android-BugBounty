@@ -117,9 +117,15 @@ https://medium.com/swlh/exploring-native-functions-with-frida-on-android-part-1-
 
 https://guidedhacking.com/threads/android-hacking-tips-and-tricks-with-frida-burpsuite.14489/
 
+https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/
+
+https://www.mavensecurity.com/blog/getting-started-with-frida-on-android
+
 https://awakened1712.github.io/hacking/hacking-frida/
 
-https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/
+https://www.hexacorn.com/blog/2020/05/31/fridatrace-quick-dirty-api-monitor/
+
+https://github.com/andreafioraldi/frida-fuzzer
 
 Dex to Jar
 
@@ -136,14 +142,6 @@ https://github.com/ifding/radare2-tutorial
 https://www.megabeets.net/a-journey-into-radare-2-part-1/
 
 https://monosource.gitbooks.io/radare2-explorations/content/intro/basics.html
-
-https://www.mavensecurity.com/blog/getting-started-with-frida-on-android
-
-https://awakened1712.github.io/hacking/hacking-frida/
-
-https://www.hexacorn.com/blog/2020/05/31/fridatrace-quick-dirty-api-monitor/
-
-https://github.com/andreafioraldi/frida-fuzzer
 
 https://github.com/radareorg/r2ghidra
 
