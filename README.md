@@ -175,6 +175,7 @@ https://www.hackingloops.com/android-webview-exploitation/
 https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/
 
 ### Instructions :
+Actually - this is depreciated:
 
 to connect an app from genymotion to r2 frida 
 
@@ -182,3 +183,8 @@ adb -e shell
 ./frida-server -l 192.168.56.x:5556
 frida://192.168.56.x:5556
 r2 frida://192.168.56.x:5556/appname
+
+Read the r2 frida help :
+
+r2 "frida://?"
+
