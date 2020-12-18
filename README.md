@@ -65,6 +65,8 @@ https://hackersonlineclub.com/insecure-direct-object-references-idor-vulnerabili
 
 ### Other Links :
 
+https://medium.com/bugbountywriteup/android-app-security-testing-156a052ce7e8
+
 https://www.exploit-db.com/papers
 
 https://github.com/ashishb/android-security-awesome
@@ -146,6 +148,10 @@ https://monosource.gitbooks.io/radare2-explorations/content/intro/basics.html
 https://github.com/radareorg/r2ghidra
 
 https://book.rada.re/
+
+R2FRIDA
+
+https://github.com/enovella/r2frida-wiki
 
 
 ### Reports
