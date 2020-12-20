@@ -105,9 +105,12 @@ https://github.com/FSecureLABS/drozer
 
 Frida (Interact with app)
 
+
 https://frida.re/
 
 https://codeshare.frida.re/
+
+https://github.com/alanvivona/pwnshop/blob/master/utils/r2frida-cheatsheet.md
 
 https://www.slideshare.net/TonyThomas45/frida-101-android
 
@@ -190,7 +193,7 @@ adb -e shell
 frida://192.168.56.x:5556
 r2 frida://192.168.56.x:5556/appname
 
-Read the r2 frida help :
+Read the r2 frida help instead :
 
 r2 "frida://?"
 
