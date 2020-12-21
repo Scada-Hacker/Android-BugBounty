@@ -148,6 +148,7 @@ https://kalilinuxtutorials.com/objection-mobile-exploration/
 
 https://github.com/sensepost/objection/
 
+https://github.com/sensepost/objection/wiki/Installation
 
 RADARE2
 
