@@ -140,6 +140,13 @@ JD-GUI
 
 https://github.com/java-decompiler/jd-gui
 
+OBJECTION
+
+https://www.hackingarticles.in/android-hooking-and-sslpinning-using-objection-framework/
+
+https://kalilinuxtutorials.com/objection-mobile-exploration/
+
+
 RADARE2
 
 https://github.com/ifding/radare2-tutorial
