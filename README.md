@@ -146,6 +146,8 @@ https://www.hackingarticles.in/android-hooking-and-sslpinning-using-objection-fr
 
 https://kalilinuxtutorials.com/objection-mobile-exploration/
 
+https://github.com/sensepost/objection/
+
 
 RADARE2
 
