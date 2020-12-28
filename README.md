@@ -109,9 +109,9 @@ https://frida.re/
 
 https://codeshare.frida.re/
 
+https://github.com/dweinstein/awesome-frida
 
 https://github.com/iddoeldor/frida-snippets
-
 
 https://github.com/alanvivona/pwnshop/blob/master/utils/r2frida-cheatsheet.md
 
