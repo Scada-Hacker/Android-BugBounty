@@ -196,6 +196,8 @@ https://www.hackingloops.com/android-webview-exploitation/
 
 https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/
 
+https://www.nuckingfoob.me/android-webview-csp-iframe-sandbox-bypass/index.html
+
 ### Instructions :
 Actually - this is depreciated:
 
