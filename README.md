@@ -105,10 +105,13 @@ https://github.com/FSecureLABS/drozer
 
 Frida (Interact with app)
 
-
 https://frida.re/
 
 https://codeshare.frida.re/
+
+
+https://github.com/iddoeldor/frida-snippets
+
 
 https://github.com/alanvivona/pwnshop/blob/master/utils/r2frida-cheatsheet.md
 
