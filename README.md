@@ -109,6 +109,8 @@ https://frida.re/
 
 https://codeshare.frida.re/
 
+https://github.com/androidmalware/android_frida_scripts
+
 https://github.com/iddoeldor/frida-snippets#webview-urls
 
 https://github.com/dweinstein/awesome-frida
