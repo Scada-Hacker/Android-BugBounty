@@ -67,6 +67,8 @@ https://hackersonlineclub.com/insecure-direct-object-references-idor-vulnerabili
 
 ### Other Links :
 
+https://medium.com/bugbountywriteup/android-app-security-testing-156a052ce7e8
+
 https://manifestsecurity.com/android-application-security/
 
 https://medium.com/bugbountywriteup/android-app-security-testing-156a052ce7e8
