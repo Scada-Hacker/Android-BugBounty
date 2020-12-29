@@ -44,6 +44,8 @@ https://www.youtube.com/watch?v=zTkv_9ChVPY
 
 https://blog.dixitaditya.com/from-android-app-to-rce/
 
+https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/
+
 
 ### Owasp stuff :
 
