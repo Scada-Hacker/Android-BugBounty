@@ -77,6 +77,8 @@ https://github.com/sundaysec/Android-Exploits
 
 https://manifestsecurity.com/android-application-security/
 
+http://gauss.ececs.uc.edu/Courses/c653/lectures/PDF/security.pdf
+
 https://medium.com/bugbountywriteup/android-app-security-testing-156a052ce7e8
 
 https://www.exploit-db.com/papers
