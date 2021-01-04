@@ -12,6 +12,10 @@ https://www.hackerone.com/
 
 https://www.bugcrowd.com/
 
+### Activities
+
+https://securitygrind.com/exploiting-android-components-abusing-activities/
+
 ### API Stuff
 
 http://ghostlulz.com/api-hacking-graphql/
