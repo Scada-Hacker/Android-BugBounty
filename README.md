@@ -187,10 +187,11 @@ R2FRIDA
 
 https://github.com/enovella/r2frida-wiki
 
-
+https://r2wiki.readthedocs.io/en/latest/radare-plugins/frida/
 ### Reports
 
 https://github.com/B3nac/Android-Reports-and-Resources
+
 
 ### SQL Injection :
 
