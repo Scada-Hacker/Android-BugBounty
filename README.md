@@ -75,6 +75,8 @@ https://hackersonlineclub.com/insecure-direct-object-references-idor-vulnerabili
 
 https://github.com/sundaysec/Android-Exploits
 
+https://github.com/B3nac/Android-Reports-and-Resources
+
 https://manifestsecurity.com/android-application-security/
 
 http://gauss.ececs.uc.edu/Courses/c653/lectures/PDF/security.pdf
