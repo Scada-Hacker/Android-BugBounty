@@ -81,6 +81,8 @@ https://manifestsecurity.com/android-application-security/
 
 http://gauss.ececs.uc.edu/Courses/c653/lectures/PDF/security.pdf
 
+https://github.com/vah13/extractTVpasswords
+
 https://medium.com/bugbountywriteup/android-app-security-testing-156a052ce7e8
 
 https://www.exploit-db.com/papers
