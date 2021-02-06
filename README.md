@@ -123,9 +123,13 @@ https://github.com/FSecureLABS/drozer
 
 Frida (Interact with app)
 
+
 https://frida.re/
 
 https://codeshare.frida.re/
+
+https://awesomeopensource.com/project/0xdea/frida-scripts
+
 
 https://github.com/androidmalware/android_frida_scripts
 
