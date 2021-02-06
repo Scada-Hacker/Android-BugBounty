@@ -73,6 +73,8 @@ https://hackersonlineclub.com/insecure-direct-object-references-idor-vulnerabili
 
 ### Other Links :
 
+https://laptrinhx.com/android-app-security-testing-3711429862/
+
 https://github.com/sundaysec/Android-Exploits
 
 https://github.com/B3nac/Android-Reports-and-Resources
