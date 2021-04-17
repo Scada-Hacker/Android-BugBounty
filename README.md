@@ -75,6 +75,8 @@ https://hackersonlineclub.com/insecure-direct-object-references-idor-vulnerabili
 
 https://github.com/mirfansulaiman/Command-Mobile-Penetration-Testing-Cheatsheet
 
+https://www.exandroid.dev/2021/03/21/capture-all-android-network-traffic/
+
 https://oldbam.github.io/android/security/
 
 https://laptrinhx.com/android-app-security-testing-3711429862/
